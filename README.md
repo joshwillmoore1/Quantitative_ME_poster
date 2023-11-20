@@ -1,6 +1,6 @@
 # Quantifying Cellular Microenvironments in Multiplex Images
 This is a repository containing additional information for the poster "Quantifying cellular microenvironment in multiplex images". The respository contains:
-- a downloadable PDF of the poster,
+- a downloadable PDF of the poster (do download as github pdf viewer misbehaves),
 - contact information,
 - data disclosure,
 - References.
