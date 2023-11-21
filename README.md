@@ -5,7 +5,7 @@ This is a repository containing additional information for the poster "Quantifyi
 - data disclosure,
 - References.
 
-![image info](quant_overview.png)
+![image info](Quant_overview.png)
 
   
 
