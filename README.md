@@ -6,12 +6,13 @@ This is a repository containing additional information for the poster "Quantifyi
 - References.
 
 ## Contact information
+If you have any questions, please get in touch!
 * Email: joshua.moore@maths.ox.ac.uk
 * Google Scholar: https://scholar.google.com/citations?user=tc7xnT8AAAAJ&hl=en
 * Twitter: @Moore_JW_
 
 ## Data disclosure
-Mutliplex images of mouse colorectal tumours were kindly provided by Dr Eoghan Mulholland (Wellcome Centre for Human Genetics). 
+Mutliplex images of mouse colorectal tumours were kindly provided by Dr Eoghan Mulholland (Wellcome Centre for Human Genetics, University of Oxford). 
 
 ## References
 1. Tan, Wei Chang Colin, et al. "Overview of multiplex immunohistochemistry/immunofluorescence techniques in the era of cancer immunotherapy." Cancer Communications 40.4 (2020): 135-153.
