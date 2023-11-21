@@ -5,6 +5,10 @@ This is a repository containing additional information for the poster "Quantifyi
 - data disclosure,
 - References.
 
+![image info](quant_overview.png)
+
+  
+
 ## Contact information
 If you have any questions, please get in touch!
 * Email: joshua.moore@maths.ox.ac.uk
